@@ -1,2 +1,2 @@
-Prototype Base Station BOM.pdf
+Prototype Base Station BOM.pdf        Details the "Bill Of Materials" used to manufacture the Prototype Base Station
 ReadMe.txt
