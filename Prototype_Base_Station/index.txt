@@ -1,2 +1,3 @@
 Prototype Base Station BOM.pdf        Details the "Bill Of Materials" used to manufacture the Prototype Base Station
+Prototype Base Station Schmatic.pdf   Details the Schmatic of the Prototpye Base Station
 ReadMe.txt
