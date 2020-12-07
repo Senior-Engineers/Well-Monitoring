@@ -75,7 +75,7 @@ String networkStatus;               // used to hold the status of the network
 String MobileNumber;                // used to hold the mobile number to send the text to
 String MobileText;                  // used to hold the text to be sent
 String passedNumber;                // used to hold the value of the number that was passed to a function
-String lineNo;                     // used to hold the value of the line number that was passed to a function
+String lineNo;                      // used to hold the value of the line number that was passed to a function
 
 int openingBracket;                 // used to hold the position of the opening bracket in the string
 int closingBracket;                 // used to hold the position of the closing bracket in the string
