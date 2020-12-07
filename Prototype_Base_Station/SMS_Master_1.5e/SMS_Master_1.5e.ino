@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>     //this is necessary for communication with the Sim800l Module 
 #include <Wire.h>               //this is necessary for communication with the Liquid Crystal Display on I2C
-#include <LiquidCrystal_I2C.h>  //this is necessary controlling the Liquid Crystal Display
+#include <LiquidCrystal_I2C.h>  //this is necessary for controlling the Liquid Crystal Display
 
 // set the LCD address to 0x27 address; 20 chars and 4 line display 
 LiquidCrystal_I2C lcd(0x27,20,4);  
