@@ -444,6 +444,9 @@ void setNetlight(){
       message += readChar;
       intPlus = intPlus + 1;
     }while (readChar != 13);
+    
+    // save setting
+    talkToPhone("AT&W0");
   }
   else
   {
