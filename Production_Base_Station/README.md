@@ -7,5 +7,3 @@ The Liquid Crystal Display is mounted on the track side of the PCB and the SIM80
 Light Pipes were used to "guide the light" from the "Network Status" LED on the SIM800L GSM Phone Module and the BUILTIN LED on the ESP32 to show "Data Status" to the Front Panel.
 
 Both the Front and Rear Panels are Perspex to enable the transmission of the radio signals for the Bluetooth and GSM Connections. The GSM Antenna is stuck to the Front Pannel.
-
-In the "Photographs Folder" there are both High and Low resolution images. The Low resolution are for viewing on GitHub. The High resolution need to be downloaded before being viewed in your preferred Photo Editor.
